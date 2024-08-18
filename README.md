@@ -54,6 +54,6 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<a href="https://denniemok.github.io"><img src="https://img.shields.io/badge/-denniemok.github.io-grey?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/denniemok"><img src="https://img.shields.io/badge/-Dennie%20Mok-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:kai_chi.mok@student.unsw.edu.au"><img src="https://img.shields.io/badge/-kai__chi.mok@student.unsw.edu.au-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://denniemok.github.io"><img src="https://img.shields.io/badge/-denniemok.github.io-grey.svg?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/denniemok"><img src="https://img.shields.io/badge/-Dennie%20Mok-0077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:kai_chi.mok@student.unsw.edu.au"><img src="https://img.shields.io/badge/-kai__chi.mok@student.unsw.edu.au-D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
