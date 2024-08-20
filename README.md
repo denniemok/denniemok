@@ -1,13 +1,17 @@
-## 👋 &nbsp;Hey there! I'm Dennie!
+<h1 align="center"> 👋 &nbsp;Hey there! I'm Dennie!</h1>
+<h3 align="center"><i>RPA Developer</i> based in Sydney, Australia</h3>
 
 ### 📝 &nbsp;About Me
 
-💡 &nbsp;I'm currently working on Robotic Process Automation.\
-🌱 &nbsp;I'm currently learning about Systems Design and Cloud Architecture.\
-👯 &nbsp;I'm looking to collaborate on some casual projects.\
-🤔 &nbsp;I’m looking for help with frontend development.\
-💬 &nbsp;Ask me about Robotic Process Automation and database.\
-📫 &nbsp;Feel free to reach out for some interesting discussion.
+💡 &nbsp;I'm currently working on **Robotic Process Automation**.\
+🌱 &nbsp;I'm currently learning about **systems design** and **database administration**.\
+👯 &nbsp;I'm looking to collaborate on some **casual projects**.\
+🤔 &nbsp;I’m looking for help with **social networking**.\
+💬 &nbsp;Ask me about **robotic process automation** and **database**.\
+👨‍💻 &nbsp;Check out my resume at my [portfolio website](http://denniemok.github.io).\
+📫 &nbsp;Feel free to reach out for some interesting discussion.\
+\
+<img src="https://komarev.com/ghpvc/?username=denniemok&label=Profile%20Views&color=green&style=flat">
 
 ### 🛠 &nbsp;Tech Stack
 
