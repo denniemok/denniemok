@@ -8,7 +8,7 @@
 👯 &nbsp;I'm looking to collaborate on some **casual projects**.\
 🤔 &nbsp;I’m looking for help with **social networking**.\
 💬 &nbsp;Ask me about **robotic process automation** and **database**.\
-👨‍💻 &nbsp;Check out my resume at my [portfolio website](http://denniemok.github.io).\
+👨‍💻 &nbsp;Check out my resume at my [portfolio website](https://denniemok.gitbook.io/).\
 📫 &nbsp;Feel free to reach out for some interesting discussion.\
 \
 <img src="https://komarev.com/ghpvc/?username=denniemok&label=Profile%20Views&color=green&style=flat">
